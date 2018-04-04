@@ -7,6 +7,9 @@ This creates an interesting property in the game where chains can be triggered b
 
 The game will be accompanied by a number of utility functions for players to utilise such as saving, game statistics and loading. You will also need to implement a set of commands that will allow the players to interact with the game.
 
+# Prerequisites
+Compiler for C
+
 # Commands
 - HELP displays this help message
 - QUIT quits the current game
