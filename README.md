@@ -14,10 +14,10 @@ Compiler for C
 - HELP displays this help message
 - QUIT quits the current game
 - DISPLAY draws the game board in terminal
-- START <width> <height> <number of players> starts the game
-- PLACE <x> <y> places an atom in a grid space
+- START (width) (height) (number of players) starts the game
+- PLACE (x) (y) places an atom in a grid space
 - UNDO undoes the last move made
 - STAT displays game statistics
-- SAVE <filename> saves the state of the game
-- LOAD <filename> loads a save file
-- PLAYFROM <turn> plays from n steps into the game
+- SAVE (filename) saves the state of the game
+- LOAD (filename) loads a save file
+- PLAYFROM (turn) plays from n steps into the game
